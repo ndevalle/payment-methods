@@ -1,8 +1,12 @@
 /*!
  * Payment Methods Component
+ * @author: ndevalle
  */
 
-/* Common Structure */
+
+/*!
+ * Common Structure 
+ */
 
 [class*='payment-method'] {
     display: inline-block;
@@ -13,7 +17,10 @@
 	background-repeat: no-repeat;
 }
 
-/* Common Payment Methods to all Contries */
+
+/*!
+ * Common Payment Methods to all Contries 
+ */
 
 .payment-method-visa { background-position: -25px -33px; width: 70px;}
 .payment-method-master { background-position: -37px -134px; width: 50px;}

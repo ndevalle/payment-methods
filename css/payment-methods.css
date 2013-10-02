@@ -1,0 +1,20 @@
+/*!
+ * Payment Methods Component
+ */
+
+/* Common Structure */
+
+[class*='payment-method'] {
+	display: inline-block;
+	margin: 0 0 5px;
+	min-height: 46px;   
+    text-indent: -27000px;
+    width: 65px;
+    background-repeat: no-repeat;
+}
+
+/* Common Payment Methods to all Contries */
+
+.payment-method-visa { background-position: -25px -33px; }
+.payment-method-master { background-position: -37px -134px; }
+.payment-method-amex { background-position: -43px -233px; }

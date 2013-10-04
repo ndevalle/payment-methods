@@ -17,19 +17,61 @@
 /* 
  * Ar Payment Methods 
  * @todo: Find a way to standardize the logos' width or do DRY for most common sizes
+ * @todo: Sprites should have smarter positions
  */
 
-.payment-method-naranja { background-position: -45px -335px; width: 30px; }
-.payment-method-tarshop { background-position: -38px -433px; }
-.payment-method-cencosud { background-position: -38px -529px; }
-.payment-method-cabal { background-position: -45px -629px; width: 28px;}
-.payment-method-argencard { background-position: -45px -729px; width: 28px;}
-.payment-method-pagofacil { background-position: -44px -835px; width: 32px;}
-.payment-method-redlink { background-position: -44px -935px; width: 32px;}
-.payment-method-rapipago { background-position: -18px -1028px; width: 83px;}
-.payment-method-bapropagos { background-position: -25px -1132px; width: 72px;}
-.payment-method-banelco { background-position: -24px -1231px; width: 72px;}
-.payment-method-nativa { background-position: -34px -1335px; width: 50px;}
+.payment-method-naranja { 
+	background-position: -45px -335px; 
+	width: 30px; 
+}
+
+.payment-method-tarshop { 
+	background-position: -38px -433px; 
+}
+
+.payment-method-cencosud { 
+	background-position: -38px -529px; 
+}
+
+.payment-method-cabal { 
+	background-position: -45px -629px; 
+	width: 28px;
+}
+
+.payment-method-argencard { 
+	background-position: -45px -729px; 
+	width: 28px;
+}
+
+.payment-method-pagofacil { 
+	background-position: -44px -835px; 
+	width: 32px;
+}
+
+.payment-method-redlink { 
+	background-position: -44px -935px; 
+	width: 32px;
+}
+
+.payment-method-rapipago { 
+	background-position: -18px -1028px; 
+	width: 83px;
+}
+
+.payment-method-bapropagos { 
+	background-position: -25px -1132px; 
+	width: 72px;
+}
+
+.payment-method-banelco { 
+	background-position: -24px -1231px; 
+	width: 72px;
+}
+
+.payment-method-nativa { 
+	background-position: -34px -1335px; 
+	width: 50px;
+}
 
 
 

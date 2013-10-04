@@ -9,7 +9,7 @@
  */
 
 [class*='payment-method'] {
-    display: inline-block;
+	display: inline-block;
 	margin: 0 5px 10px;
 	min-height: 46px;   
 	text-indent: -27000px;
@@ -22,6 +22,17 @@
  * Common Payment Methods to all Contries 
  */
 
-.payment-method-visa { background-position: -25px -33px; width: 70px;}
-.payment-method-master { background-position: -37px -134px; width: 50px;}
-.payment-method-amex { background-position: -43px -233px; width: 32px;}
+.payment-method-visa { 
+	background-position: -25px -33px; 
+	width: 70px;
+}
+
+.payment-method-master { 
+	background-position: -37px -134px; 
+	width: 50px;
+}
+
+.payment-method-amex { 
+	background-position: -43px -233px; 
+	width: 32px;
+}

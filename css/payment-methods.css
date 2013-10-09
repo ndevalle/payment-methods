@@ -9,12 +9,12 @@
  */
 
 [class*='payment-method'] {
+	background-repeat: no-repeat;
 	display: inline-block;
 	margin: 0 5px 10px;
 	min-height: 46px;   
 	text-indent: -27000px;
 	width: 43px;
-	background-repeat: no-repeat;
 }
 
 

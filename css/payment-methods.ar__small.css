@@ -1,0 +1,80 @@
+/**
+ * Payment Methods Logos
+ * @authors: ndevalle, ipianciola
+ * @description: common component for each country's payment methods logos.
+ */
+
+/* Argentina Sprite 
+---------------------------------------------------------------*/
+
+[class*='pm'] {
+    background-image: url(./assets/small/pm-logos-ar.png);
+    height: 16px; /* most common height */
+}
+
+.pm-account_money {
+    height: 20px;
+    width: 72px;
+}
+
+.pm-visa {
+    height: 14px;
+    width: 38px;
+}
+
+.pm-master { 
+    height: 19px;
+    width: 29px;
+}
+
+.pm-amex { 
+    height: 17px;
+    width: 17px;
+}
+
+.pm-naranja { 
+    height: 18px;
+    width: 16px;
+}
+
+.pm-nativa {
+    height: 15px;
+    width: 36px;
+}
+
+.pm-tarshop {
+    width: 27px;
+}
+
+.pm-cencosud {
+    width: 25px;
+}
+
+.pm-cabal {
+    height: 17px;
+    width: 17px;
+}
+
+.pm-argencard {
+    height: 18px;
+    width: 17px;
+}
+
+.pm-pagofacil,
+.pm-redlink {
+    height: 20px;
+    width: 19px;
+}
+
+.pm-rapipago {
+    height: 11px;
+    width: 59px;
+}
+
+.pm-banelco {
+    width: 46px;
+}
+
+.pm-bapropagos {
+    width: 51px;
+}

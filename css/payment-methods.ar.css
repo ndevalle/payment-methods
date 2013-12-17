@@ -1,0 +1,58 @@
+/**
+ * Payment Methods Logos
+ * @authors: ndevalle, ipianciola
+ * @description: common component for each country's payment methods logos.
+ */
+
+
+.pm-naranja { 
+	background-position: 0 -200px; 
+}
+
+.pm-nativa { 
+	background-position: 0 -250px; 
+}
+
+.pm-tarshop { 
+	background-position: 0 -300px; 
+}
+
+.pm-cencosud { 
+	background-position: 0 -350px; 
+}
+
+.pm-cabal { 
+	background-position: 0 -400px; 
+}
+
+.pm-argencard { 
+	background-position: 0 -450px; 
+}
+
+.pm-pagofacil { 
+	background-position: 0 -500px; 
+}
+
+.pm-rapipago { 
+	background-position: 0 -550px; 
+}
+
+.pm-redlink { 
+	background-position: 0 -600px; 
+}
+
+.pm-banelco { 
+	background-position: 0 -650px; 
+}
+
+.pm-bapropagos { 
+	background-position: 0 -700px; 
+}
+
+
+
+
+
+
+
+

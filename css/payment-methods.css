@@ -1,8 +1,8 @@
- /**
-  * Payment Methods Logos
-  * @authors: ndevalle, ipianciola, gpaz
-  * @description: common component for each country's payment methods logos.
-  */
+/**
+ * Payment Methods Logos
+ * @authors: ndevalle, ipianciola
+ * @description: common component for each country's payment methods logos.
+ */
 
 /* Common Structure 
 ---------------------------------------------------------------*/
@@ -10,7 +10,7 @@
 [class*='paymentmethod'] {
 	background-repeat: no-repeat;
 	display: inline-block;
-	margin: 0;  
+	margin: 0;
     overflow: hidden;
 	text-indent: 100%;
 	vertical-align: middle;
@@ -25,14 +25,14 @@
 	background-position: 0 0;
 }
 
-.paymentmethod-visa { 
-	background-position: 0 -50px; 
+.paymentmethod-visa {
+	background-position: 0 -50px;
 }
 
-.paymentmethod-master { 
-	background-position: 0 -100px; 
+.paymentmethod-master {
+	background-position: 0 -100px;
 }
 
-.paymentmethod-amex { 
-	background-position: 0 -150px; 
+.paymentmethod-amex {
+	background-position: 0 -150px;
 }

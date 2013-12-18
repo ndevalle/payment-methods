@@ -1,11 +1,4 @@
-/**
- * Payment Methods Logos
- * @authors: ndevalle, ipianciola
- * @description: common component for each country's payment methods logos.
- */
-
-
-/* Argentina Sprite 
+/* Argentina Sprite for Large Size 
 ---------------------------------------------------------------*/
 
 .paymentmethod-large {
@@ -13,7 +6,8 @@
     height: 26px; /* most common height */
 }
 
-/* large Size Logos
+
+/* Argentina Large Size
 ---------------------------------------------------------------*/
 
 .paymentmethod-account_money.paymentmethod-large {

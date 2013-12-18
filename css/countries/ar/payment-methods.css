@@ -1,9 +1,5 @@
-/**
- * Payment Methods Logos
- * @authors: ndevalle, ipianciola
- * @description: common component for each country's payment methods logos.
- */
-
+/* Sprite position for Argentina Logos
+---------------------------------------------------------------*/
 
 .paymentmethod-naranja { 
 	background-position: 0 -200px; 
@@ -48,11 +44,3 @@
 .paymentmethod-bapropagos { 
 	background-position: 0 -700px; 
 }
-
-
-
-
-
-
-
-

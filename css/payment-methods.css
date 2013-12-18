@@ -10,6 +10,7 @@
 [class*='paymentmethod'] {
 	background-repeat: no-repeat;
 	display: inline-block;
+    line-height: 30px;
 	margin: 0;
     overflow: hidden;
 	text-indent: 100%;
@@ -17,6 +18,9 @@
     white-space: nowrap;
 }
 
+li[class*='paymentmethod'] {
+    margin: 2px;
+}
 
 /* Common Payment Methods to all Contries 
 ---------------------------------------------------------------*/

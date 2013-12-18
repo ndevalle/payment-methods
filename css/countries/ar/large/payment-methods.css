@@ -6,6 +6,9 @@
     height: 26px; /* most common height */
 }
 
+li.paymentmethod-large {
+    margin: 5px;
+}
 
 /* Argentina Large Size
 ---------------------------------------------------------------*/

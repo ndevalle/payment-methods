@@ -2,7 +2,7 @@
 ---------------------------------------------------------------*/
 
 .paymentmethod-large {
-    background-image: url('payment-methods.png');
+    background-image: url('payment-methods-large.png');
     height: 26px; /* most common height */
 }
 

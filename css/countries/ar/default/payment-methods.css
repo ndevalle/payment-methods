@@ -2,7 +2,7 @@
 ---------------------------------------------------------------*/
 
 [class*='paymentmethod'] {
-    background-image: url('payment-methods.png');
+    background-image: url('payment-methods-default.png');
     height: 16px; /* most common height */
 }
 

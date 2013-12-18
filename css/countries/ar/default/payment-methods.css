@@ -7,74 +7,74 @@
 /* Argentina Sprite 
 ---------------------------------------------------------------*/
 
-[class*='pm'] {
-    background-image: url(./assets/small/pm-logos-ar.png);
+[class*='paymentmethod'] {
+    background-image: url(payment-methods.png);
     height: 16px; /* most common height */
 }
 
-.pm-account_money {
+.paymentmethod-account_money {
     height: 20px;
     width: 72px;
 }
 
-.pm-visa {
+.paymentmethod-visa {
     height: 14px;
     width: 38px;
 }
 
-.pm-master { 
+.paymentmethod-master { 
     height: 19px;
     width: 29px;
 }
 
-.pm-amex { 
+.paymentmethod-amex { 
     height: 17px;
     width: 17px;
 }
 
-.pm-naranja { 
+.paymentmethod-naranja { 
     height: 18px;
     width: 16px;
 }
 
-.pm-nativa {
+.paymentmethod-nativa {
     height: 15px;
     width: 36px;
 }
 
-.pm-tarshop {
+.paymentmethod-tarshop {
     width: 27px;
 }
 
-.pm-cencosud {
+.paymentmethod-cencosud {
     width: 25px;
 }
 
-.pm-cabal {
+.paymentmethod-cabal {
     height: 17px;
     width: 17px;
 }
 
-.pm-argencard {
+.paymentmethod-argencard {
     height: 18px;
     width: 17px;
 }
 
-.pm-pagofacil,
-.pm-redlink {
+.paymentmethod-pagofacil,
+.paymentmethod-redlink {
     height: 20px;
     width: 19px;
 }
 
-.pm-rapipago {
+.paymentmethod-rapipago {
     height: 11px;
     width: 59px;
 }
 
-.pm-banelco {
+.paymentmethod-banelco {
     width: 46px;
 }
 
-.pm-bapropagos {
+.paymentmethod-bapropagos {
     width: 51px;
 }
